@@ -1,13 +1,12 @@
-# 👋 Hello, I'm [Muhammad Nabeed Haider]
+# 👋 Hello, I'm Muhammad Nabeed Haider
 
-Welcome to my GitHub profile! I'm a [Your Role/Title] with a passion for [AI/ML and Web Dev].  
-Currently, I'm working on [AI/ML and We].  
+Welcome to my GitHub profile! I'm a Computer Scientist with a passion for AI/ML and Web Dev.  
+Currently, I'm working on my semester projects.  
 
 ---
 
 ## 🌐 Professional Links
 
-- 🔗 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 - 💼 **LinkedIn:** [Muhammad Nabeed Haider](https://www.linkedin.com/in/muhammad-nabeed-haider-92a371240/)
 - 📧 **Email:** nabeedtouseeq@gmail.com
 
@@ -15,8 +14,8 @@ Currently, I'm working on [AI/ML and We].
 
 ## 📣 Social Links
 
-- 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-- 🎮 **Discord:** `yourdiscord#1234`
+<!--- 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)-->
+
 - 🏠 **GitHub:** [github.com/m-nabeed-haider](https://github.com/m-nabeed-haider)
 
 ---
