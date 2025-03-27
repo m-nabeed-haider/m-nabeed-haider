@@ -39,6 +39,6 @@ Currently, I'm working on my semester projects.
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-nabeed-haider&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=m-nabeed-haider&theme=dark)
+![GitHub Streak](https://github-readme-streak.vercel.app/api?user=m-nabeed-haider&theme=dark)
 
 
