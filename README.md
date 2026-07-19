@@ -12,7 +12,7 @@ Passionate about building intelligent systems that solve real-world problems thr
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science student at FAST-NUCES Islamabad
+- 🎓 Computer Science Graduate from FAST-NUCES Islamabad
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
 - ⚙️ Exploring MLOps, LLMs, AI Agents and production AI systems
 - 🌐 Experienced with Full Stack Web Development (MERN)
