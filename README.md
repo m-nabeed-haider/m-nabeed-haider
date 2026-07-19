@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Muhammad Nabeed Haider
 
 <p align="center">
-  <b>Computer Science Undergraduate • AI Engineer • MLOps Enthusiast • Full Stack Developer</b>
+  <b>Computer Science Graduate • AI Engineer • MLOps Enthusiast • Full Stack Developer</b>
 </p>
 
 <p align="center">
